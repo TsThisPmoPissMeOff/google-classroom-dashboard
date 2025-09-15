@@ -1,0 +1,4 @@
+.dashboard-container{padding:20px;}
+.login-btn{display:inline-block;margin-bottom:20px;padding:10px 15px;background:#4285f4;color:white;text-decoration:none;border-radius:5px;}
+.toggle-btn{margin-right:10px;padding:5px 10px;border-radius:5px;cursor:pointer;}
+.assignments-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:20px;}
